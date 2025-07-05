@@ -1,4 +1,4 @@
-I# 💡 IntelliSQL
+# 💡 IntelliSQL
 
 IntelliSQL is an interactive tool that revolutionizes the way users interact with databases. It translates natural language questions into SQL queries using Google’s Gemini LLM, allowing users—both technical and non-technical—to retrieve meaningful data effortlessly.
 
